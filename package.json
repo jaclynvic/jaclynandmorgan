@@ -2,7 +2,14 @@
   "name": "website",
   "browserify": {
     "transform": [
-      "babelify"
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ]
     ]
   },
   "version": "1.0.0",
@@ -15,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babelify": "6.4.0",
+    "babelify": "7.0.1",
     "browserify": "^10.2.6",
     "eases": "^1.0.8",
     "glfx": "0.0.4",
@@ -26,5 +33,8 @@
     "smooth-state": "^1.2.0",
     "uglify-js": "^2.4.24",
     "watchify": "^3.2.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
   }
 }
