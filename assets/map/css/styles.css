@@ -14,7 +14,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../map.svg);
+  background-image: url(/assets/map/images/map.svg);
   background-size: cover;
   width: 80%;
   /*transition: 0.5s ease-in-out opacity;*/
