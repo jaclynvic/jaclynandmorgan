@@ -2,6 +2,7 @@
 import sAL from "simple_animation_loop";
 import { Polaroid } from "./Polaroid";
 import { RecordPlayer } from './RecordPlayer';
+import {Gallery} from './Gallery';
 
 const getSrc = (indexes) => {
   const randIndex = Math.round(Math.random() * indexes.length - 1);
@@ -37,12 +38,31 @@ const createRecordPlayer = ({entry, loop}) => {
   entry.appendChild(new RecordPlayer({ loop }).el);
 }
 
+const spinTitle = (loop)=>{
+  const title = document.getElementById('explore-title-treatment');
+  loop.setAnimationInterval(()=>{
+    console.log('called')
+    title.className = "half-spin"
+    const text = title.innerText.split('&').reverse().join('&');
+    loop.setAnimationTimeout(()=>{
+      title.innerText = text;
+      loop.setAnimationTimeout(()=>{
+        title.className = ""
+
+      },200)
+    },1000)
+
+  },12200)
+}
 
 export const createApp = () => {
   const entry = document.getElementById("entry");
   const loop = new sAL();
+  loop.start();
   const options = {entry, loop}
-  createPolaroidPics(options);
+  spinTitle(loop);
+  // createPolaroidPics(options);
+  entry.appendChild(new Gallery({loop}).el)
   // createRecordPlayer(options)
 };
 

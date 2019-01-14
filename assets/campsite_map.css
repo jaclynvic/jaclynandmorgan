@@ -1,0 +1,18 @@
+.poi {
+  cursor: pointer;
+}
+
+body {
+  background: black;
+}
+
+#modal {
+    top: 200px;
+    left: 200px;
+    position: absolute;
+    background: white;
+    box-shadow: 2px 2px 2px #9E9E9E;
+    max-width: 400px;
+    border-radius: 10px;
+    padding: 10px;
+}

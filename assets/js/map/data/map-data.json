@@ -1,0 +1,206 @@
+{
+  "main-roads": {
+    "title": "",
+    "description": ""
+  },
+  "tipi-dirt": {
+    "title": "Tipi Camping Area",
+    "description": ""
+  },
+  "cabin-drt-area": {
+    "title": "Cabin camping area",
+    "description": ""
+  },
+  "tipi-west": {
+    "title": "Western Tipi",
+    "description": ""
+  },
+  "tipi-south": {
+    "title": "South Tipi",
+    "description": ""
+  },
+  "main-lawn": {
+    "title": "Main Lawn",
+    "description": ""
+  },
+  "glen-creek": {
+    "title": "San Gregorio Creek",
+    "description": ""
+  },
+  "cabin-bonfire": {
+    "title": "Cabin Bonfire",
+    "description": ""
+  },
+  "tipi-bonfire": {
+    "title": "Tipi Bonfire",
+    "description": ""
+  },
+  "redwood-grove-north-tree": {
+    "title": "Redwood Grove",
+    "description": "Wedding ceremony area"
+  },
+  "redwood-grove-south-tree": {
+    "title": "Redwood Grove",
+    "description": "Wedding ceremony area"
+  },
+  "ovrflow-camping-icon": {
+    "title": "Overflow camping",
+    "description": ""
+  },
+  "tipi-north": {
+    "title": "Northern Tipi",
+    "description": ""
+  },
+  "bbq-pit-area": {
+    "title": "BBQ picnic area",
+    "description": ""
+  },
+  "overflow-parking-icon": {
+    "title": "Overflow parking area",
+    "description": ""
+  },
+  "cabin-restrooms-icon": {
+    "title": "Cabin Restrooms",
+    "description": "8 flushing toilets. 2 sinks. No showers. No mirrors. One 15-amp outlet at Bathrooms."
+  },
+  "entrance-sign": {
+    "title": "Camp Jacamo Entrance",
+    "description": ""
+  },
+  "lodge": {
+    "title": "Willow Glen Lodge",
+    "description": "Capacity: 200 people maximum. Electricity: 15-amp outlets (2 plugs) at the base of each beam (8 total). Holiday lights on beams are permanent. Kitchen: Plates, bowls, silverware, cups for up to 120 people. 100-cup and 40-cup percolating coffee maker. Reach-in and walk-in refrigerator. Convection oven. 2 conventional ovens. 6-burner stove. Griddle. Microwave. Commercial dishwasher. Seating: 42 tables (30” x 96”). 54 benches (96” long). 4 people fit per bench. Heating: Central heating. Fireplace. Miscellaneous: Firewood available for a fee. Wifi – Network: OVY Camp Password: ovyovyovy2018 Dimensions of Scheid Hall: 63’L x 32’W x 9’6”H (beams with lights). Fireplace is 8’5”W. Scheid Hall Bathrooms: Showers (0 in women’s, 4 in men’s). Toilets (2 in women’s, 2 in men’s, 3 urinals in men’s). Sinks (4 in men’s, 2 in women’s). No mirrors."
+  },
+  "pool-bathrooms": {
+    "title": "Pool Restrooms",
+    "description": "Pool is rented on an hourly basis and requires a camp lifeguard on the property. We do not anticipate using the pool, unless it is an abnormally hot day. We will likely use the restrooms. Details: Bathrooms: 2 toilets in women’s, 1 toilet and 1 urinal in men’s. Showers: Common shower room with 5 showerheads in each men’s and women’s."
+  },
+  "lodge-restroom": {
+    "title": "Lodge restrooms",
+    "description": "Showers (1 in womens, 2 mens). Outlets in bathrooms."
+  },
+  "wedding-arch-redwood-grove": {
+    "title": "Redwood grove ceremony location",
+    "description": "Capacity: 200 people maximum. Up to 8 benches can be set up in front of platform. As many benches as necessary if not using platform area. Electricity: 15-amp outlets (2 plugs) at base of tree next to platform. Platform: 8’ x 8’."
+  },
+  "tipi-camping-icon-south": {
+    "title": "Tipi campsite",
+    "description": ""
+  },
+  "tipi-camping-icon-north": {
+    "title": "Tipi campsite",
+    "description": ""
+  },
+  "main-restroom": {
+    "title": "Main Hall Restrooms",
+    "description": "Showers (0 in women’s, 4 in men’s). Toilets (2 in women’s, 2 in men’s, 3 urinals in men’s). Sinks (4 in men’s, 2 in women’s). No mirrors."
+  },
+  "main-restroom-icon": {
+    "title": "Main Hall Restrooms",
+    "description": "Showers (0 in women’s, 4 in men’s). Toilets (2 in women’s, 2 in men’s, 3 urinals in men’s). Sinks (4 in men’s, 2 in women’s). No mirrors."
+  },
+  "bridge": {
+    "title": "Wooden Bridge at entrance",
+    "description": "Dimensions: 102” wide. Weight Limit: 30 tons."
+  },
+  "entrance-house": {
+    "title": "",
+    "description": ""
+  },
+  "main-hwy": {
+    "title": "",
+    "description": ""
+  },
+  "ampitheatre": {
+    "title": "Ampitheatre",
+    "description": "Capacity: Seats about 180 people (90 on each side), plus room for benches. Electricity: One 15-amp outlet (2 plugs). Flood lights illuminate the space very well. Dimensions: The beams are 12’3” tall and span 114’ end to end. Concrete slab around fire pit is 7’8” x 7’8”. Fire pit has diameter of 3’8”. Miscellaneous: Firewood at amphitheater available for a fee."
+  },
+  "main-hall": {
+    "title": "Main Hall",
+    "description": "Capacity: 200 people maximum. Electricity: 15-amp outlets (2 plugs) at the base of each beam (8 total). Holiday lights on beams are permanent. Kitchen: Plates, bowls, silverware, cups for up to 120 people. 100-cup and 40-cup percolating coffee maker. Reach-in and walk-in refrigerator. Convection oven. 2 conventional ovens. 6-burner stove. Griddle. Microwave. Commercial dishwasher. Seating: 42 tables (30” x 96”). 54 benches (96” long). 4 people fit per bench. Heating: Central heating. Fireplace. Miscellaneous: Firewood available for a fee. Wifi – Network: OVY Camp Password: ovyovyovy2018"
+  },
+  "wave-west": {
+    "title": "To San Greorio State Beach",
+    "description": "10 minute drive to the beach. 20 min drive to Half Moon Bay"
+  },
+  "forest-east": {
+    "title": "To Heritage Grove & Apple Jack's Saloon",
+    "description": "10 min drive to some of the last old growth redwoods & a creaky dive bar in an old blacksmith shop from 1879"
+  },
+  "totem": {
+    "title": "Totem",
+    "description": "Totem overlooking the ampetheatre. Capacity: Seats about 180 people (90 on each side), plus room for benches. Electricity: One 15-amp outlet (2 plugs). Flood lights illuminate the space very well. Dimensions: The beams are 12’3” tall and span 114’ end to end. Concrete slab around fire pit is 7’8” x 7’8”. Fire pit has diameter of 3’8”. Miscellaneous: Firewood at amphitheater available for a fee."
+  },
+  "left-arrow": {
+    "title": "To San Greorio State Beach",
+    "description": "10 minute drive to the beach. 20 min drive to Half Moon Bay"
+  },
+  "right-arrow": {
+    "title": "To Heritage Grove & Apple Jack's Saloon",
+    "description": "10 min drive to some of the last old growth redwoods & a creaky dive bar in an old blacksmith shop from 1879"
+  },
+  "cabin-camping-north": {
+    "title": "Cabin camping",
+    "description": "Easy access to bathrooms here"
+  },
+  "cabin-camping-south": {
+    "title": "Cabin camping",
+    "description": "Easy access to bathrooms here"
+  },
+  "main-parking-icon": {
+    "title": "Main parking area",
+    "description": "Guest parking located just in front of the main hall"
+  },
+  "pool-bathroom-icon": {
+    "title": "Pool Bathrooms",
+    "description": "Bathrooms: 2 toilets in women’s, 1 toilet and 1 urinal in men’s. Showers: Common shower room with 5 showerheads in each men’s and women’s."
+  },
+  "cabin-1": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-2": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-3": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-4": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-5": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-6": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-7": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-8": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-9": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-10": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-11": {
+    "title": "Cabin",
+    "description": "CABIN"
+  },
+  "cabin-12": {
+    "title": "Cabin",
+    "description": "CABIN"
+  }
+}
