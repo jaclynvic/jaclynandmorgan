@@ -1,0 +1,181 @@
+.container{
+  position: absolute;
+  background-color: #fcf5e3;
+}
+
+.coloring {
+  opacity: 0;
+  transition: 1s opacity;
+}
+
+.bg-loading{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url(../map.svg);
+  background-size: cover;
+  width: 80%;
+  /*transition: 0.5s ease-in-out opacity;*/
+}
+/*
+.map-container{
+  position: relative;
+  width:80%;
+}
+
+.map-background{
+  width: 100%;
+}*/
+
+.map-detail{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 80%;
+}
+
+.map-container {
+  position: relative;
+}
+
+.map-bg{
+  width:80%;
+}
+
+
+/*.map, .contianer{
+  width: 100%;
+  height: 100%;
+}
+
+.map-background {
+  width: 80%;
+}*/
+
+/*#background {
+  background: url('../background.png');
+  background-size:contain;
+  background-repeat:no-repeat;
+  position: absolute;
+  top:0;
+  left: 0;
+  bottom:0;
+  right:0;
+}
+
+#foreground {
+   background: url('../foreground.png');
+    background-size:contain;
+     background-repeat:no-repeat;
+  position: absolute;
+  top:0;
+  left: 0;
+  bottom:0;
+  right:0;
+}
+
+#redwoodgrove {
+   background: url('../redwoodgrove.png');
+    background-repeat:no-repeat;
+  position: absolute;
+  top:0;
+  left: 0;
+  bottom:0;
+  right:0;
+}*/
+.title{
+  position:absolute;
+  font-family: "Reeperbahn";
+  font-weight: normal;
+  color: #614125;
+  margin:0;
+  top:0;
+  left:0;
+}
+
+#redwood-grove{
+  top: 23%;
+  left: 1%;
+  height: 31%;
+  width: 15%;
+}
+
+#bbq-area {
+  height: 17%;
+  top: 53%;
+  left: 10%;
+  width: 13.5%;
+}
+
+#willow-glen {
+  left: 16%;
+  width: 14%;
+  top: 30%;
+  height: 16%;
+}
+
+#tipi-camp {
+      left: 19%;
+    top: 8%;
+    height: 22%;
+    width: 21%;
+}
+
+#pool-area {
+    height: 6%;
+    left: 20.5%;
+    top: 50%;
+    width: 4%;
+    cursor: auto;
+}
+
+#main-hall {  
+      left: 26%;
+    top: 41%;
+    height: 20%;
+    width: 19%;
+    transform: rotate(-30deg);
+}
+
+#cabin-camp {
+  top: 33%;
+  left: 49%;
+  height: 21%;
+  width: 12.5%;
+  transform: rotate(-30deg);
+}
+
+.map-btn {
+  position: absolute;
+  background: none; /*#0000ff47; */
+  cursor: pointer;
+  border: none;
+  color: #a52a2a00;
+  font-size: 5px;
+
+}
+
+#camp-entrance {
+  top: 52%;
+  left: 56.6%;
+  height: 13%;
+  width: 15%;
+}
+
+#totem-ampitheatre {
+  left: 60%;
+    width: 11%;
+    top: 25%;
+    height: 17%;
+    transform: rotate(-30deg);
+}
+
+@font-face {
+  font-family: "Reeperbahn";
+  src: url('fonts/Reeperbahn.woff') format('woff'),
+       url('fonts/Reeperbahn.ttf') format('truetype');
+}
