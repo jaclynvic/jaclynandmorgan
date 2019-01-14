@@ -4,24 +4,23 @@
  <head>
   <meta charset="UTF-8">
   <title>OVY Map</title>
-  <link rel="stylesheet" type="text/css" href="/map/css/styles.css">
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/map/css/styles.css' || relative_url }}s">
 </head>
 
   <body>
 
   <div class="container">
 
-    <img class="map-bg" src="/map/images/coloredmap.png"onload="bgLoaded()"/>
-    <img id="redwood-grove-color" class="map-detail coloring" src="/map/images/redwoodgrove.png"/>
-    <img id="bbq-area-color" class="map-detail coloring" src="/map/images/bbq-area.png"/>
-    <img id="main-hall-color" class="map-detail coloring" src="/map/images/main-hall.png"/>
-    <img id="willow-glen-color" class="map-detail coloring" src="/map/images/willow-glen.png"/>
-    <img id="tipi-camp-color" class="map-detail coloring" src="/map/images/tipi-camp.png"/>
-    <img id="cabin-camp-color" class="map-detail coloring" src="/map/images/cabin-camp.png"/>
-    <img id="totem-ampitheatre-color" class="map-detail coloring" src="/map/images/totem-ampitheatre.png"/>
-    <img id="camp-entrance-color" class="map-detail coloring" src="/map/images/camp-entrance.png"/>
-    <img id="foreground" class="map-detail" src="/map/images/foreground.png"/>
-
+    <img class="map-bg" onload="bgLoaded()" src="{{ '/assets/map/images/coloredmap.png' || relative_url }}"/>
+    <img id="redwood-grove-color" class="map-detail coloring" src="{{/assets/map/images/redwoodgrove.png || relative_url }}"/>
+    <img id="bbq-area-color" class="map-detail coloring" src="{{ '/assets/map/images/bbq-area.png' || relative_url }}"/>
+    <img id="main-hall-color" class="map-detail coloring" src="{{ '/assets/map/images/main-hall.png' || relative_url }}"/>
+    <img id="willow-glen-color" class="map-detail coloring" src="{{ '/assets/map/images/willow-glen.png' || relative_url }}"/>
+    <img id="tipi-camp-color" class="map-detail coloring" src="{{ '/assets/map/images/tipi-camp.png' || relative_url }}"/>
+    <img id="cabin-camp-color" class="map-detail coloring" src="{{ '/assets/map/images/cabin-camp.png' || relative_url }}"/>
+    <img id="totem-ampitheatre-color" class="map-detail coloring" src="{{ '/assets/map/images/totem-ampitheatre.png' || relative_url }}"/>
+    <img id="camp-entrance-color" class="map-detail coloring" src="{{ '/assets/map/images/camp-entrance.png' || relative_url }}"/>
+    <img id="foreground" class="map-detail" src="{{ '/assets/map/images/foreground.png' || relative_url }}"/>
     <h1 class="title">CAMP JACAMO</h1>
     <button id="redwood-grove" class="map-btn" title="Ceremony at the Redwood Grove">Redwood Grove</button>
     <button id="bbq-area" class="map-btn" title="BBQ & Picnic Area">BBQ & Picnic Area</button>
