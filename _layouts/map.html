@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+ <head>
+  <meta charset="UTF-8">
+  <title>OVY Map</title>
+  <link rel="stylesheet" type="text/css" href="./css/styles.css">
+</head>
+
+  <body>
+
+  <div class="container">
+
+    <img class="map-bg" src="./coloredmap.png"onload="bgLoaded()"/>
+    <img id="redwood-grove-color" class="map-detail coloring" src="./redwoodgrove.png"/>
+    <img id="bbq-area-color" class="map-detail coloring" src="./bbq-area.png"/>
+    <img id="main-hall-color" class="map-detail coloring" src="./main-hall.png"/>
+    <img id="willow-glen-color" class="map-detail coloring" src="./willow-glen.png"/>
+    <img id="tipi-camp-color" class="map-detail coloring" src="./tipi-camp.png"/>
+    <img id="cabin-camp-color" class="map-detail coloring" src="./cabin-camp.png"/>
+    <img id="totem-ampitheatre-color" class="map-detail coloring" src="./totem-ampitheatre.png"/>
+    <img id="camp-entrance-color" class="map-detail coloring" src="./camp-entrance.png"/>
+    <img id="foreground" class="map-detail" src="./foreground.png"/>
+
+    <h1 class="title">CAMP JACAMO</h1>
+    <button id="redwood-grove" class="map-btn" title="Ceremony at the Redwood Grove">Redwood Grove</button>
+    <button id="bbq-area" class="map-btn" title="BBQ & Picnic Area">BBQ & Picnic Area</button>
+    <button id="willow-glen" class="map-btn" title="Willow Glen Lodge">Willow Glen Lodge</button>
+    <button id="tipi-camp" class="map-btn" title="Tipi Camp">Tipi Camp</button>
+    <button id="pool-area" class="map-btn" title="Pool Area">Pool Area</button>
+    <button id="main-hall" class="map-btn" title="Main Hall">Main Hall</button>
+    <button id="cabin-camp" class="map-btn" title="Cabin Camp">Cabin Camp</button>
+    <button id="camp-entrance" class="map-btn" title="Camp Entrance">Camp Entrance</button>
+    <button id="totem-ampitheatre" class="map-btn" title="Totem Ampitheatre">Totem Ampitheatre</button>
+    <div id="map-skeleton" class="bg-loading"></div>
+  <script type="text/javascript">
+    setTimeout(function(){
+      
+      var mapDetails = {
+          "redwood-grove": {},
+          "bbq-area": {},
+          "willow-glen": {},
+          "tipi-camp": {},
+          "pool-area": {},
+          "main-hall": {},
+          "cabin-camp": {},
+          "camp-entrance": {},
+          "totem-ampitheatre": {}
+      };
+
+      Object.keys(mapDetails).forEach(area=>{
+        var colorEl = document.getElementById(area + '-color');
+        if(colorEl){
+            var el = document.getElementById(area);
+            el.addEventListener('mouseover', function(){
+              colorEl.style.opacity = 1;
+            });
+            el.addEventListener('mouseout', function(){
+              colorEl.style.opacity = 0;
+            })
+        }
+      })
+
+    }, 1000);
+    
+    function bgLoaded(){
+      document.getElementById("map-skeleton").remove();
+    }
+  </script>
+
+  </body>
+
+</html>
