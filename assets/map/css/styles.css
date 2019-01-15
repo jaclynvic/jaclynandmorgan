@@ -17,17 +17,8 @@
   background-image: url(/assets/map/images/map.svg);
   background-size: cover;
   width: 80%;
-  /*transition: 0.5s ease-in-out opacity;*/
-}
-/*
-.map-container{
-  position: relative;
-  width:80%;
 }
 
-.map-background{
-  width: 100%;
-}*/
 
 .map-detail{
   position: absolute;
@@ -44,49 +35,10 @@
 
 .map-bg{
   width:80%;
+  opacity: 0;
 }
 
 
-/*.map, .contianer{
-  width: 100%;
-  height: 100%;
-}
-
-.map-background {
-  width: 80%;
-}*/
-
-/*#background {
-  background: url('../background.png');
-  background-size:contain;
-  background-repeat:no-repeat;
-  position: absolute;
-  top:0;
-  left: 0;
-  bottom:0;
-  right:0;
-}
-
-#foreground {
-   background: url('../foreground.png');
-    background-size:contain;
-     background-repeat:no-repeat;
-  position: absolute;
-  top:0;
-  left: 0;
-  bottom:0;
-  right:0;
-}
-
-#redwoodgrove {
-   background: url('../redwoodgrove.png');
-    background-repeat:no-repeat;
-  position: absolute;
-  top:0;
-  left: 0;
-  bottom:0;
-  right:0;
-}*/
 .title{
   position:absolute;
   font-family: "Reeperbahn";

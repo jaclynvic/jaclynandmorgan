@@ -18,7 +18,7 @@
   "scripts": {
     "build": "NODE_ENV=production browserify index.js | uglifyjs -cm > assets/bundle.js",
     "watch": "watchify index.js -o assets/bundle.js -dv",
-    "watch-map": "watchify assets/js/map/index.js -o assets/map.bundle.js -dv"
+    "watch-map": "watchify assets/map/js/index.js -o assets/map/bundle.js -dv"
   },
   "author": "",
   "license": "ISC",
