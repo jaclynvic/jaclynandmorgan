@@ -1,0 +1,26 @@
+[
+  { "id":"redwood-grove",
+    "name": "Ceremony at Redwood Grove"
+  },
+  { "id":"bbq-area",
+    "name": "BBQ & Picnic Area"
+  },
+  { "id": "willow-glen",
+    "name": "Willow Glen Lodge"
+  },
+  { "id": "tipi-camp",
+    "name": "Tipi Camp"
+  },
+  { "id": "main-hall",
+    "name": "Main Hall"
+  },
+  { "id": "cabin-camp",
+    "name": "Cabin Camp"
+  },
+  { "id": "camp-entrance",
+    "name": "Camp Entrance"
+  },
+  { "id": "totem-ampitheatre",
+    "name": "Totem Ampitheatre"
+  }
+];
