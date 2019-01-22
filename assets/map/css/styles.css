@@ -1,3 +1,11 @@
+#react-entry{
+  margin-top: 50px;
+}
+
+body{
+  background: #fcf5e3;
+}
+
 .container{
   position: absolute;
   background-color: #fcf5e3;
@@ -35,18 +43,23 @@
 
 .map-bg{
   width:80%;
+}
+
+.hide{
   opacity: 0;
 }
 
+.show{
+  opacity: 1;
+}
+
+
 
 .title{
-  position:absolute;
   font-family: "Reeperbahn";
   font-weight: normal;
-  color: #614125;
-  margin:0;
-  top:0;
-  left:0;
+  color: #543a24;
+  margin-left: 60px;
 }
 
 #redwood-grove{

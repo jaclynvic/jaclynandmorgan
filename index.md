@@ -5,8 +5,4 @@ title: Morgan & Jaclyn
 layout: home
 ---
 
-This is our **website** and it's underconstruction this is a [link](www.google.com)
-
-dfjfkjsljflksdjfskldfj
-
-sldfjalksj
+This is our **website** and it's underconstruction 
