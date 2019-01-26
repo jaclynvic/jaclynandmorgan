@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from "react-dom";
-import {InteractiveMapWrapper} from './InteractiveMap';
+import {LandingPage} from './LandingPage';
 
-ReactDOM.render(<InteractiveMapWrapper/>, document.getElementById("react-entry"))
+window.initReact = ()=>{
+  ReactDOM.render(<LandingPage/>, document.getElementById("react-entry"))  
+}

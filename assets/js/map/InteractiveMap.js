@@ -52,7 +52,7 @@ const InteractiveMap = ({ mapData, onLoadMapImages, allLoaded, onHoverItem, high
       <img
         className={`map-bg ${showImage}`}
         id="map-background"
-        src="/assets/map/images/background.png"
+        src="/assets/map/images/background1.png"
         alt="map background"
         onLoad={onLoadMapImages(BACKGROUND_LOADED)}
       />
