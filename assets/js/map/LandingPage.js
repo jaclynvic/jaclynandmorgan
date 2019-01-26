@@ -13,17 +13,17 @@ const LocationText = () => {
     );
 };
 
-const ParallaxCampMap = () => (
-    <Parallax
-        className="camp-map-outer"
-        offsetXMin="-100px"
-        offsetXMax="100px"
-        slowerScrollRate={true}
-        tag="figure"
-    >
-        <InteractiveMapWrapper />
-    </Parallax>
-);
+// const ParallaxCampMap = () => (
+//     <Parallax
+//         className="camp-map-outer"
+//         offsetXMin="-100px"
+//         offsetXMax="100px"
+//         slowerScrollRate={true}
+//         tag="figure"
+//     >
+        
+//     </Parallax>
+// );
 
 export const LandingPage = () => {
     return (
@@ -68,7 +68,7 @@ export const LandingPage = () => {
              <p className="location-text">The site is nestled between old growth redwoods to the east and the Pacific coast to the west. 
             Guests not staying at the camp will find many options in the nearby towns of Halfmoon Bay and Pescadero.</p>
             <h1>Camp Map</h1>
-            <ParallaxCampMap />
+            <InteractiveMapWrapper />
         </ParallaxProvider>
     );
 };

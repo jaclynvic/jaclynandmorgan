@@ -21,7 +21,8 @@
     "build": "NODE_ENV=production browserify index.js | uglifyjs -cm > assets/bundle.js",
     "watch": "watchify index.js -o assets/bundle.js -dv",
     "watch-map": "watchify assets/js/map/index.js -o assets/js/map/bundle.js -dv",
-    "serve": "bundle exec jekyll serve"
+    "serve": "bundle exec jekyll serve",
+    "killjekyll": "pkill -f jekyll"
   },
   "author": "",
   "license": "ISC",
