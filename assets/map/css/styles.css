@@ -30,6 +30,14 @@ body, html{
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+.intro-image{
+  width:50%;
+}
+
+.camp-map-outer{
+  position: relative;
+}
+
 .placeholder{
   margin-top: 100%;
 }
@@ -86,7 +94,7 @@ body, html{
   bottom: 0;
   background-image: url(/assets/map/images/map.svg);
   background-size: cover;
-  width: 80%;
+  width: 50%;
 }
 
 
@@ -96,7 +104,7 @@ body, html{
   left: 0;
   right: 0;
   bottom: 0;
-  width: 80%;
+  width: 50%;
 }
 
 .map-container {
@@ -104,7 +112,7 @@ body, html{
 }
 
 .map-bg{
-  width:80%;
+  width:50%;
 }
 
 .hide{

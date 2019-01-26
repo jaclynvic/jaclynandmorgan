@@ -48,7 +48,7 @@ const loadedClassName = (show) => show ? "show" : "hide"
 const InteractiveMap = ({ mapData, onLoadMapImages, allLoaded, onHoverItem, highlighted }) => {
   const showImage = loadedClassName(allLoaded);
   return (
-    <div id="map-base" className="container">
+    <div>
       <img
         className={`map-bg ${showImage}`}
         id="map-background"

@@ -1,6 +1,6 @@
 import React from "react";
 import { InteractiveMapWrapper } from "./InteractiveMap";
-import { ParallaxBanner, ParallaxProvider } from "react-scroll-parallax";
+import { ParallaxBanner, ParallaxProvider, Parallax } from "react-scroll-parallax";
 import { GoogleMap } from "./GoogleMap";
 
 const WelcomText = () => {
@@ -9,9 +9,21 @@ const WelcomText = () => {
 
 const LocationText = () => {
     return (    
-    <p class="location-text"><strong>Location:</strong> Ovy Camp, 5360 La Honda Rd. San Gregorio, CA 94074</p>
+    <p className="location-text"><strong>Location:</strong> Ovy Camp, 5360 La Honda Rd. San Gregorio, CA 94074</p>
     );
 };
+
+const ParallaxCampMap = () => (
+    <Parallax
+        className="camp-map-outer"
+        offsetXMin="-100px"
+        offsetXMax="100px"
+        slowerScrollRate={true}
+        tag="figure"
+    >
+        <InteractiveMapWrapper />
+    </Parallax>
+);
 
 export const LandingPage = () => {
     return (
@@ -48,14 +60,15 @@ export const LandingPage = () => {
             >
                 <div className="down-arrow">⟶</div>
             </ParallaxBanner>
+            <img className="intro-image" src="/assets/images/placeholder_image.jpg"/>
             <div className="placeholder" />
             <LocationText />
             <GoogleMap />
-             <p class="location-text"><strong>Getting there:</strong> Ovy is located directly between two major airports SFO and SJC.</p>
-             <p class="location-text">The site is nestled between old growth redwoods to the east and the Pacific coast to the west. 
+             <p className="location-text"><strong>Getting there:</strong> Ovy is located directly between two major airports SFO and SJC.</p>
+             <p className="location-text">The site is nestled between old growth redwoods to the east and the Pacific coast to the west. 
             Guests not staying at the camp will find many options in the nearby towns of Halfmoon Bay and Pescadero.</p>
             <h1>Camp Map</h1>
-            <InteractiveMapWrapper />
+            <ParallaxCampMap />
         </ParallaxProvider>
     );
 };
