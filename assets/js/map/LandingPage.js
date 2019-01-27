@@ -2,6 +2,7 @@ import React from "react";
 import { InteractiveMapWrapper } from "./InteractiveMap";
 import { ParallaxBanner, ParallaxProvider, Parallax } from "react-scroll-parallax";
 import { GoogleMap } from "./GoogleMap";
+import {Labels} from './strings';
 
 const WelcomText = () => {
     return <p className="welcom-text">Where: OVY Camp</p>;
@@ -60,12 +61,15 @@ export const LandingPage = () => {
             >
                 <div className="down-arrow">⟶</div>
             </ParallaxBanner>
-            <img className="intro-image" src="/assets/images/placeholder_image.jpg"/>
+            <div className="intro-wrapper">
+                <img className="intro-image" src="/assets/images/placeholder_image.jpg"/>
+                <span className="welcome-text">{Labels.WELCOME_PAGE_OVERVIEW}</span>
+            </div>
             <div className="placeholder" />
             <LocationText />
             <GoogleMap />
-             <p className="location-text"><strong>Getting there:</strong> Ovy is located directly between two major airports SFO and SJC.</p>
-             <p className="location-text">The site is nestled between old growth redwoods to the east and the Pacific coast to the west. 
+             <p className="location-text"><strong>Getting there:</strong>Ovy is accessible from three major airports OAK, SFO and SJC.</p>
+             <p className="location-text">The site is nestled a few miles between the Pacific Ocean to the west and old growth redwoods to the east. It is a 
             Guests not staying at the camp will find many options in the nearby towns of Halfmoon Bay and Pescadero.</p>
             <h1>Camp Map</h1>
             <InteractiveMapWrapper />
