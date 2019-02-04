@@ -47,17 +47,17 @@ body, html{
     text-align: center;
     font-weight: normal;
     margin-top: 75px;
-    font-size: 9vh;
+    font-size: 8vw;
     text-shadow: 1px 1px 1px #737373;
 }
 
 .jacamo-logo {
     position: absolute;
-    top: 50%;
+    top: 36%;
     left: 50%;
     right: 0;
-    transform: translate(-50%, -50%);
-    height: 20%;
+    transform: translate(-50%, 0%);
+    width: 25%;
 }
 
 .bg-nav-color {
@@ -145,12 +145,8 @@ body, html{
 }
 
 .down-arrow {
-   width: 11px;
-    height: 37px;
     text-align: center;
     margin: auto;
-    transform: rotate(90deg);
-    line-height: 35px;
     color: white;
     position: absolute;
     left: 0;
