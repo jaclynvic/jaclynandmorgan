@@ -46,7 +46,7 @@ body, html{
     font-family: "Restless Youth Script", cursive, sans-serif;
     text-align: center;
     font-weight: normal;
-    margin-top: 75px;
+    margin-top: 80px;
     font-size: 8vw;
     text-shadow: 1px 1px 1px #737373;
 }
@@ -58,6 +58,26 @@ body, html{
     right: 0;
     transform: translate(-50%, 0%);
     width: 25%;
+}
+
+.line {
+    width: 15%;
+    margin: 14px auto;
+    left: 45%;
+    /* top: 3%; */
+    position: absolute;
+    stroke-width: 4;
+    stroke-dasharray: 8 6;
+    stroke-dashoffset: 1;
+    stroke-width: 4;
+    stroke-dasharray: 8 6;
+    animation: dash 5s linear infinite;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 100;
+  }
 }
 
 .bg-nav-color {
@@ -151,7 +171,7 @@ body, html{
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 10%;
+    bottom: 15%;
     width: 100%;
     cursor: pointer;
 }

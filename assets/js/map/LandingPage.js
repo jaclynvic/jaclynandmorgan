@@ -100,6 +100,23 @@ const BackgroundCurve = props => {
     );
 };
 
+const Line = props => (
+    <svg
+        className={`line-${props.id} line`}
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 100 50"
+        xmlnsXlink="http://www.w3.org/1999/xlink"
+    >
+        <path
+            d={props.path}
+            opacity="1"
+            fillOpacity="0"
+            stroke="#fcf3e0"
+            strokeOpacity="1"
+        />
+    </svg>
+);
+
 export const LandingPage = () => {
     return (
         <div>
@@ -133,12 +150,15 @@ export const LandingPage = () => {
                         height: windowHeight()
                     }}
                 >
-                    <div className="down-arrow"><img className="arrow" src="/assets/images/arrow.svg"/></div>
+                    <div className="down-arrow">
+                        <img className="arrow" src="/assets/images/arrow.svg" />
+                    </div>
                 </ParallaxBanner>
                 <div className="curve-wrappers">
                     <BackgroundCurve {...curves.tan} />
                     <BackgroundCurve {...curves.green} />
                 </div>
+                 <Line path="M30.91 119.09C24.85 59.7 16.97 20 7.27 0" id="1" />
                 <div className="intro-wrapper" />
                 <h1 className="main-intro">We are getting married</h1>
                 <div className="placeholder" />
