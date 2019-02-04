@@ -3,9 +3,111 @@
 }*/
 
 body, html{
-  background-color: black;
+  background-color: #7d8a86;
   /*?background: #fcf5e3;*/
   margin:0;
+  margin: 0;
+  position: relative;
+}
+
+@font-face {
+  font-family: 'Restless Youth Sans';
+  src: url('/assets/fonts/RestlessYouthSans-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Restless Youth Script';
+  src: url('/assets/fonts/RestlessYouthScript-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Restless Youth Small Caps';
+  src: url('/assets/fonts/RestlessYouthSmallCaps-Regular.otf');
+}
+
+.bg-image {
+    background-image: url(assets/images/texture.png);
+    position: absolute;
+    top: 0;
+    background-size: 8%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-repeat: repeat;
+}
+
+/*.intro-image {
+  border-bottom-left-radius: 50% 10%;
+  border-bottom-right-radius: 50% 10%;
+}*/
+
+.main-intro{
+    color: #fcf3e0;
+    font-family: "Restless Youth Script", cursive, sans-serif;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 75px;
+    font-size: 9vh;
+    text-shadow: 1px 1px 1px #737373;
+}
+
+.jacamo-logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 0;
+    transform: translate(-50%, -50%);
+    height: 20%;
+}
+
+.bg-nav-color {
+    background: #c89f4f;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    height: 6%;
+    border-bottom: 3px solid #fbf3e2;
+}
+
+.curve-wrappers {
+  position: relative;
+}
+.curve {
+    position: absolute;
+    transform: translateY(-73%);
+    z-index: 3;
+}
+
+.shadow{
+  box-shadow: 0px 0px 5px #00000085;
+}
+
+.green-curve{
+  transform:translateY(7%);
+  z-index:0;
+}
+
+.top-nav {
+
+    position: fixed;
+    top: 10px;
+    left: 16px;
+    margin: 0;
+    padding: 0;
+    z-index: 100;
+
+}
+
+.nav-link{
+  display: inline-block;
+  margin-right: 33px;
+}
+
+.nav-link > a {
+    text-decoration: none;
+    color: #fcf3e0;
+    font-family: "Restless Youth Sans", sans-serif;
+    font-size: 1.2vw;
 }
 
 .main-title{
@@ -31,7 +133,7 @@ body, html{
 }
 
 .intro-image{
-  width:50%;
+  z-index:2;
 }
 
 .camp-map-outer{
