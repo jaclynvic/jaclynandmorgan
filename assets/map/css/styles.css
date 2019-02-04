@@ -26,8 +26,8 @@ body, html{
 }
 
 .bg-image {
-    background-image: url(assets/images/texture.png);
-    position: absolute;
+    background-image: url(../../images/texture.png);
+    position: relative;
     top: 0;
     background-size: 8%;
     left: 0;
