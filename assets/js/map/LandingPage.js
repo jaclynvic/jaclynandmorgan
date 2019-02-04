@@ -133,7 +133,7 @@ export const LandingPage = () => {
                         height: windowHeight()
                     }}
                 >
-                    <div className="down-arrow"><img src="/assets/images/arrow.svg"/></div>
+                    <div className="down-arrow"><img className="arrow" src="/assets/images/arrow.svg"/></div>
                 </ParallaxBanner>
                 <div className="curve-wrappers">
                     <BackgroundCurve {...curves.tan} />

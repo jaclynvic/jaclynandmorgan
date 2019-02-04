@@ -152,7 +152,12 @@ body, html{
     left: 0;
     right: 0;
     bottom: 10%;
+    width: 100%;
     cursor: pointer;
+}
+
+img.arrow{
+  width: 2%;
 }
 
 .date {
