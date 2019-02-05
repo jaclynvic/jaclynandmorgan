@@ -102,9 +102,11 @@ const BackgroundCurve = props => {
 
 const Line = props => (
     <svg
+        height={props.height}
+        width={props.width}
         className={`line-${props.id} line`}
         xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 100 50"
+        viewBox={props.viewBox}
         xmlnsXlink="http://www.w3.org/1999/xlink"
     >
         <path
@@ -158,9 +160,26 @@ export const LandingPage = () => {
                     <BackgroundCurve {...curves.tan} />
                     <BackgroundCurve {...curves.green} />
                 </div>
-                 <Line path="M30.91 119.09C24.85 59.7 16.97 20 7.27 0" id="1" />
+                <div class="line-wrap">
+                    <Line
+                        path="M30.91 119.09C24.85 59.7 16.97 20 7.27 0"
+                        id="1"
+                        viewBox="0 0 30 50"
+                        width="5%"
+                        height="auto"
+                    />
+                </div>
                 <div className="intro-wrapper" />
                 <h1 className="main-intro">We are getting married</h1>
+                <div class="line-wrap">
+                    <Line
+                        path="M79.73 206C79.73 190.68 77.63 179.46 73.42 172.35C67.1 161.68 55.13 155.37 31.78 152.8C8.43 150.23 -0.14 133.45 13.55 100.58C27.24 67.7 39.72 23.13 41.84 0"
+                        id="2"
+                        viewBox="0 0 100 200"
+                        width="20%"
+                        height="auto"
+                    />
+                </div>
                 <div className="placeholder" />
                 <LocationText />
                 <GoogleMap />
