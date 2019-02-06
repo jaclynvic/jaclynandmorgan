@@ -1,0 +1,29 @@
+
+.intro-image{
+  z-index:2;
+}
+
+.jacamo-logo {
+    position: absolute;
+    top: 36%;
+    left: 50%;
+    right: 0;
+    transform: translate(-50%, 0%);
+    width: 25%;
+}
+
+.down-arrow {
+    text-align: center;
+    margin: auto;
+    color: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 15%;
+    width: 100%;
+    cursor: pointer;
+}
+
+img.arrow{
+  width: 2%;
+}

@@ -1,0 +1,43 @@
+.top-nav {
+    position: fixed;
+    top: 10px;
+    left: 16px;
+    margin: 0;
+    padding: 0;
+    z-index: 100;
+
+}
+
+.nav-link{
+  display: inline-block;
+  margin-right: 33px;
+}
+
+.nav-link > a {
+    text-decoration: none;
+    color: #fcf3e0;
+    font-family: "Restless Youth Sans", sans-serif;
+    font-size: 1.2vw;
+}
+
+.bg-nav-color {
+    background: #c89f4f;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    height: 6%;
+    border-bottom: 3px solid #fbf3e2;
+}
+
+.curve-wrappers {
+  position: relative;
+}
+.curve {
+    position: absolute;
+    transform: translateY(-73%);
+    z-index: 3;
+}
+.green-curve{
+  transform:translateY(7%);
+  z-index:0;
+}

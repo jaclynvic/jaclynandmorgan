@@ -1,0 +1,17 @@
+.line {
+    margin-top: 3px; 
+    stroke-width: 3;
+    stroke-dasharray: 6 4;
+    stroke-dashoffset: 1;
+    animation: dash 10s linear infinite;
+}
+
+.line-wrap {
+  text-align: center;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 100;
+  }
+}
