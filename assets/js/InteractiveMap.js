@@ -52,7 +52,7 @@ const InteractiveMap = ({ mapData, onLoadMapImages, allLoaded, onHoverItem, high
       <img
         className={`map-bg ${showImage}`}
         id="map-background"
-        src="/assets/map/images/background1.png"
+        src="/assets/images/map/background1.png"
         alt="map background"
         onLoad={onLoadMapImages(BACKGROUND_LOADED)}
       />
@@ -63,11 +63,11 @@ const InteractiveMap = ({ mapData, onLoadMapImages, allLoaded, onHoverItem, high
           className={`map-detail coloring ${loadedClassName(highlighted === id)}`}
           id={`${id}-color`}
           alt={name}
-          src={`/assets/map/images/${id}.png`}
+          src={`/assets/images/map/${id}.png`}
         />
       )})}
       <img
-        src="/assets/map/images/foreground.png"
+        src="/assets/images/map/foreground.png"
         className={`map-detail ${showImage}`}
         id="map-foreground"
         alt="camp map foreground"
@@ -87,7 +87,7 @@ const InteractiveMap = ({ mapData, onLoadMapImages, allLoaded, onHoverItem, high
       {!allLoaded && <img
         id="map-skeleton" 
         className="bg-loading"
-        src="/assets/map/images/map.svg"
+        src="/assets/images/map/map.svg"
       />}
     </div>
   );
