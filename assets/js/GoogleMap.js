@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import styles from "../../gMapStyles.json";
+import styles from "../gMapStyles.json";
 
 const OVY_CAMP = {lat:37.310741, lon:-122.3137944 }
 

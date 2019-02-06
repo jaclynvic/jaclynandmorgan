@@ -1,19 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
- <head>
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Jaclyn + Morgan - May 30, 2020</title>
-  <link href="https://fonts.googleapis.com/css?family=Poppins:300|Sacramento|Source+Sans+Pro|IM+Fell+DW+Pica" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="{{ '/assets/map/css/styles.css' }}">
-</head>
-
+  {%- include main_header.html -%}
   <body>
+  <!-- <div id="fade-in">   -->
   <div class="bg-image">
   <div id="react-entry"></div>
-  <script type="text/javascript"  src="{{ '/assets/js/map/bundle.js' }}"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUvkhpAhvPHRSPUk_7ZmHEsNEOpJXHnbs&callback=initReact"></script>
+ {%- include scripts.html -%}
   </body>
 </html>

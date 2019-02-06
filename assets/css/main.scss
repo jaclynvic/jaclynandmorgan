@@ -1,8 +1,26 @@
-/*#react-entry{
-  margin-top: 50px;
-}*/
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 
-body, html{
+
+
+#fade-in{
+  background: black;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left:0;
+  bottom:0;
+  right:0;
+  transition: opacity .5s ease-out;
+  opacity: 1;
+}
+
+html{
+  background: black;
+}
+
+body{
   background-color: #7d8a86;
   /*?background: #fcf5e3;*/
   margin:0;
