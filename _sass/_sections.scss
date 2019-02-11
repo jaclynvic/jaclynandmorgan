@@ -1,0 +1,42 @@
+@import "sections/jacamo";
+@import "sections/location";
+
+.section{
+  h1{
+    color: #fcf3e0;
+    font-family: "Restless Youth Script", cursive, sans-serif;
+    text-align: center;
+    font-weight: 100;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 6.7vw;
+    text-shadow: 1px 1px 1px #737373;
+  }
+
+  h3 {
+    color: #fcf3e0;
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Restless Youth Small Caps', cursive;
+  }
+
+  p{
+    color: #fcf3e0;
+    text-align: center;
+    font-family: "Restless Small Caps", sans-serif;
+    width: 43%;
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+    margin: auto;
+    text-shadow: 1px 1px 1px #737373;
+    font-size: 2.2vh;
+    line-height: 130%;
+  }
+
+  padding-left: 30px;
+  padding-right: 30px;
+  
+
+}
+
+

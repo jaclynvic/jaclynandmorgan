@@ -1,0 +1,34 @@
+.section{
+  &.location{
+    
+    background: #cbc19e;
+    border-top-right-radius: 80% 30%;
+    padding-top: 7%;
+    border-top-left-radius: 80% 30%;
+    width: 110%;
+    margin-left: -10%;
+    padding-bottom: 25%;
+    margin-top: 46%;
+
+    .location-inner{
+      width: 80%;
+      margin:auto;
+    }
+
+    p{
+      text-align: left;
+      width: 100%;
+    }
+  }
+}
+
+#location {
+  text-align: right;
+  margin-right: 15%;
+}
+
+.location-line-wrap {
+    position: absolute;
+    width: 93%;
+    transform: translate(27%, -90%);
+}
