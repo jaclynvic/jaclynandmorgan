@@ -1,0 +1,18 @@
+.section {
+  &.faq {
+    background: #7d8a86;
+    border-top-right-radius: 80% 30%;
+    padding-top: 7%;
+    border-top-left-radius: 80% 30%;
+    width: 110%;
+    margin-left: -5%;
+    padding-bottom: 35%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: -30%;
+  }
+  .inner{
+      width: 80%;
+      margin:auto;
+    }
+}

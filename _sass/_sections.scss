@@ -1,5 +1,7 @@
 @import "sections/jacamo";
 @import "sections/location";
+@import "sections/about";
+@import "sections/faq";
 
 .section{
   h1{
@@ -29,13 +31,13 @@
     margin-bottom: 15px;
     margin: auto;
     text-shadow: 1px 1px 1px #737373;
-    font-size: 2.2vh;
+    font-size: 2.2vw;
     line-height: 130%;
   }
 
   padding-left: 30px;
   padding-right: 30px;
-  
+
 
 }
 

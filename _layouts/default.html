@@ -23,7 +23,9 @@
           {{section.content | markdownify}}
         <div class="google-map-entry"></div></div>
     {% else %}
+        <div class="inner">
        {{section.content | markdownify}}
+     </div>
      {% endif %}  
     </div>
   {% endfor %}

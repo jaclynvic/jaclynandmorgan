@@ -1,5 +1,16 @@
-.section{
-  &.about{
-    
-  }
+.section.about {
+    padding-left: 30px;
+    padding-right: 30px;
+    border-top-right-radius: 25% 15%;
+    padding-top: 20%;
+    border-top-left-radius: 75% 50%;
+    background: #81a495;
+    margin-top: -30%;
+    width: 110%;
+    margin-left: -5%;
+    padding-bottom: 35%;
+    .inner {
+      width: 80%;
+      margin: auto;
+    }
 }
