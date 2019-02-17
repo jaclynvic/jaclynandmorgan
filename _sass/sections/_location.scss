@@ -2,15 +2,15 @@
   &.location{
     
     background: #cbc19e;
-    border-top-right-radius: 80% 30%;
+    border-top-right-radius: 80% 10%;
     padding-top: 7%;
-    border-top-left-radius: 80% 30%;
+    border-top-left-radius: 80% 10%;
     width: 110%;
     margin-left: -5%;
-    padding-bottom: 35%;
+    padding-bottom: 50%;
     margin-top: 46%;
 
-    .location-inner{
+    .inner{
       width: 80%;
       margin:auto;
     }
@@ -30,5 +30,11 @@
 .location-line-wrap {
     position: absolute;
     width: 93%;
-    transform: translate(27%, -90%);
+    transform: translate(17%, -90%);
+}
+#google-map-entry {
+    width: 40%;
+    height: 500px;
+    background: white;
+    float: right;
 }
