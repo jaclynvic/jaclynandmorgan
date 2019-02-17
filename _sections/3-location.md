@@ -10,11 +10,13 @@ title: location
 
 # Location
 
-<div id="google-map-entry">
+<div class="location-map">
+  <div id="google-map-entry"></div>
   <div class="line-wrap location-line-wrap-after">
-    <svg height="30%" width="40%" class="line-5 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.48 298.68C0.47 282.45 18.69 270.99 57.14 264.29C114.81 254.23 135.98 223.02 141.8 209.26C147.62 195.5 149.71 178.29 148.74 145.35C148.09 123.39 146.48 100.78 143.92 77.51C143.21 69.05 143.21 60.41 143.92 51.59C144.62 42.77 145.15 26.02 145.5 1.34" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
+    <svg height="30%" width="100%" class="line-6 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 320" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.66 320.12C0.16 302.73 22.89 290.44 70.84 283.25C142.77 272.47 169.16 239 176.42 224.26C183.68 209.51 186.28 191.05 185.07 155.74C184.26 132.19 182.26 107.95 179.06 83.01C178.18 73.93 178.18 64.67 179.06 55.21C179.94 45.76 180.6 27.8 181.04 1.34" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
   </div>
 </div>
+
 
 #### GETTING THERE
 
@@ -31,3 +33,4 @@ For guests who will be driving, there is ample parking on the property! The camp
 Guests are welcome to stay through the weekend on site! There are 12 very rustic camp cabins for groups to share and lots of space for tent camping. We may also have access to luxury glamping tents (think Fyre Festival, but actually what you paid for) depending on the level of interest. 
 
 While most of the wedding party will be bunking up under the stars, we encourage anyone wary of the great outdoors to find accomodations in the nearby towns of Half Moon Bay or Pescadero. Both are a short 15-minute drive from the camp. We will provide some hotel options closer to the event!
+

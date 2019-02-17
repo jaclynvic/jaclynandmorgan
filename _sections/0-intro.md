@@ -2,7 +2,7 @@
 section: intro 
 ---
 
-# We’re getting married!
+# We are getting married!
 
 Pack your sleeping bag and dancin’ shoes and join us for a weekend of celebrations under the stars!
 
