@@ -14,7 +14,7 @@ export class GoogleMap extends Component {
 
   createMap() {
     const mapOptions = {
-      zoom: 12,
+      zoom: 10,
       center: new google.maps.LatLng(OVY_CAMP.lat, OVY_CAMP.lon),
       streetViewControl: false,
       styles
