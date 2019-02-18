@@ -4,6 +4,12 @@ linkable: true
 title: faq
 ---
 
+<div class="line-wrap line-9">
+    <svg height="30%" width="100%" class="line-9 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 500" xmlns:xlink="http://www.w3.org/1999/xlink"><path path  d="M102.94 493.53C110.24 474.27 120.08 406.63 123.68 372C127.28 337.38 119.77 308.72 119.48 306.44C118.81 301.16 116.71 292.36 102.94 278.63C89.16 264.91 71.33 267.09 48.38 254.37C35.75 247.37 28.99 243.15 15.77 223C8.7 212.23 1.29 179.43 5.03 149.46C8.28 123.41 22.09 99.5 25.05 94.05C31.41 82.33 51.89 65.88 69.37 42.44C81.03 26.8 86.08 6.77 84.52 -17.66" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
+</div>
+
+
+
 # Faq
 
 ## Is this a kid-friendly event?
