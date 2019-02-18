@@ -19,6 +19,7 @@
       <div class="main-content">
         {% for section in site.sections %}
         <div class="section {{section.section}}" >
+          <span class="bg-pattern" ></span>
           <div class="inner">{{section.content | markdownify}}</div>  
         </div>
         {% endfor %}

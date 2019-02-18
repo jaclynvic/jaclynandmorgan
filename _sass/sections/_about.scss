@@ -1,14 +1,18 @@
 .section.about {
     padding-left: 30px;
     padding-right: 30px;
-    border-top-right-radius: 15% 15%;
     padding-top: 18%;
-    border-top-left-radius: 100% 25%;
     background: #81a495;
     margin-top: -40%;
     width: 120%;
     margin-left: -10%;
     padding-bottom: 118%;
+    border-top-right-radius: 15% 15%;
+    border-top-left-radius: 100% 25%;
+    .bg-pattern{
+      border-top-right-radius: 15% 15%;
+      border-top-left-radius: 100% 25%;
+     } 
     .inner {
       width: 80%;
       margin: auto;
@@ -22,12 +26,6 @@
       line-height: 150%;
       margin: 0 auto 3%;
     }
-}
-
-.line-wrap.location-line-wrap-after {
-    position: absolute;
-    transform: translate(180%, -98%);
-    width: 38%;
 }
 
 .about-line{

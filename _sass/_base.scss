@@ -19,7 +19,7 @@ body{
   overflow-x: hidden;
 }
 
-.bg-image {
+.bg-image, .bg-pattern {
     background-image: url(../../assets/images/texture.png);
     position: relative;
     top: 0;
@@ -31,57 +31,12 @@ body{
 }
 
 
-// .title-block {
-//     color: #fcf3e0;
-//     text-align: center;
-//     font-weight: normal;
-//     font-family: 'Restless Youth Small Caps', cursive;
-// }
-
-
-// .main-intro {
-//     color: #fcf3e0;
-//     font-family: "Restless Youth Script", cursive, sans-serif;
-//     text-align: center;
-//     font-weight: 100;
-//     margin-top: 5px;
-//     margin-bottom: 15px;
-//     font-size: 6.7vw;
-//     text-shadow: 1px 1px 1px #737373;
-// }
-
-// .second-title {
-//     width: 48%;
-//     font-size: 3.5vh;
-//     margin: auto;
-//     font-weight: normal;
-//     text-shadow: 1px 1px 1px grey;
-//     margin-top: 15px;
-//     margin-bottom: 15px;
-// }
-
-// .text-block {
-//     color: #fcf3e0;
-//     text-align: center;
-//     font-family: "Restless Small Caps", sans-serif;
-//     width: 43%;
-//     font-size: 1.5vw;
-//     margin-bottom: 15px;
-//     margin: auto;
-//     text-shadow: 1px 1px 1px #737373;
-// }
-
-// .text-block.bios {
-//     width: 90%;
-//     text-align: left;
-// }
-
 .card {
     width: 30%;
     padding: 2%;
     background: white;
     margin: auto;
-    box-shadow: 1px 1px 1px black;
+    box-shadow: 1px 1px 10px #000000ba;
     border-radius: 1%;
 }
 

@@ -2,6 +2,7 @@
 @import "sections/location";
 @import "sections/about";
 @import "sections/faq";
+@import "sections/rsvp";
 
 .section{
   h1{
@@ -38,8 +39,10 @@
 
   padding-left: 30px;
   padding-right: 30px;
-
-
+  position: relative;
+  .bg-pattern{
+    position: absolute;
+  }
 }
 
 

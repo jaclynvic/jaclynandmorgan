@@ -31,10 +31,17 @@ svg.line-2.line {
 
 .line-wrap.line-10 {
     position: absolute;
-    transform: translate(0%, -100%);
-    width:93%;
+    transform: translate(-4%, -98%);
+    width:83%;
 }
 
 .line-9.line{
   margin-left: 18%;
 }
+
+.line-wrap.location-line-wrap-after {
+    position: absolute;
+    transform: translate(90%, -98%);
+    width: 28%;
+}
+

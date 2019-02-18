@@ -2,14 +2,17 @@
   &.location{
     
     background: #cbc19e;
-    border-top-right-radius: 80% 10%;
     padding-top: 7%;
-    border-top-left-radius: 80% 10%;
     width: 110%;
     margin-left: -5%;
     padding-bottom: 80%;
-    margin-top: 46%;
-
+    margin-top: 55%;
+    border-top-right-radius: 80% 10%;
+    border-top-left-radius: 80% 10%;
+    .bg-pattern{
+      border-top-right-radius: 80% 10%;
+      border-top-left-radius: 80% 10%;
+    }
     .inner{
       width: 80%;
       margin:auto;
@@ -30,24 +33,14 @@
 .location-line-wrap {
     position: absolute;
     width: 93%;
-    transform: translate(17%, -90%);
-}
-#google-map-entry {
-    width: 80%;
-    min-height: 400px;
-    background: white;
-    margin: auto;
-    margin-bottom: 50%;
-    padding: 10px; 
+    transform: translate(6%, -92%);
 }
 
-.location-map{
+.location-map.card{
   width:50%;
   float: right;
+  margin:2%;
+  margin-bottom: 20%;
 }
 
-.line-wrap.location-line-wrap-after {
-    width: 93%;
-    margin-left: -36%;
-}
 

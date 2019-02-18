@@ -1,0 +1,14 @@
+.section{
+  &.rsvp{
+    padding-top: 7%;
+    width: 110%;
+    margin-left: -5%;
+    padding-bottom: 7%;
+    border-top-right-radius: 80% 10%;
+    border-top-left-radius: 80% 10%;
+    .bg-pattern{
+      border-top-right-radius: 80% 80%;
+      border-top-left-radius: 80% 80%;
+    }
+  } 
+}   

@@ -10,7 +10,7 @@ title: location
 
 # Location
 
-<div class="location-map">
+<div class="location-map card">
   <div id="google-map-entry"></div>
 </div>
 
