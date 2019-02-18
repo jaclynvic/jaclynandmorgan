@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { InteractiveMapWrapper } from "./InteractiveMap";
 import {
     ParallaxBanner,
     ParallaxProvider,
@@ -21,17 +20,6 @@ const LocationText = () => {
     );
 };
 
-// const ParallaxCampMap = () => (
-//     <Parallax
-//         className="camp-map-outer"
-//         offsetXMin="-100px"
-//         offsetXMax="100px"
-//         slowerScrollRate={true}
-//         tag="figure"
-//     >
-
-//     </Parallax>
-// );
 
 const TopNav = props => (
     <ul className="top-nav">

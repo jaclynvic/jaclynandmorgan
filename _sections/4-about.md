@@ -25,10 +25,10 @@ Lucky for us, we have Camp Jacamo, a beautiful 100 acre summer camp, from Friday
     <svg height="30%" width="50%" class="line-8 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.48 57C2.4 49.16 2.9 40.49 3.98 30.99C5.07 21.49 6.73 11.16 8.98 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
 </div>
 
-<div class="map-entry"></div>
+<div id="map-entry"></div>
 
 <div class="line-wrap about-line-after">
-    <svg height="30%" width="50%" class="line-8 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.48 57C2.4 49.16 2.9 40.49 3.98 30.99C5.07 21.49 6.73 11.16 8.98 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
+    <svg height="30%" width="50%" class="line-9 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.48 57C2.4 49.16 2.9 40.49 3.98 30.99C5.07 21.49 6.73 11.16 8.98 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
 </div>
 
 We will post a more detailed schedule as we get closer to the event, but here’s a rough idea of what to expect:
