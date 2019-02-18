@@ -10,7 +10,16 @@ title: about
 
 # About
 
-#### We decided early on that a single evening wouldn’t be nearly enough to celebrate with you all, so we’re making this a weekend affair! Lucky for us, we have Camp Jacamo, a beautiful 100 acre summer camp, from Friday evening through Sunday morning. Guests are welcome to join for the whole weekend, or just for the big event on Saturday - choose your own adventure!
+<div class="line-wrap about-line">
+    <svg height="30%" width="40%" class="line-7 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M75 46.59C76.5 42.41 75.74 34.07 75 31.85C74.26 29.63 72.17 25.92 62.92 24.33C53.66 22.74 56.22 23.67 40.47 21.98C19.26 19.71 6.67 14.27 2.7 5.66C2.12 3.62 1.91 1.73 2.07 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
+</div>
+
+
+
+### We decided early on that a single evening wouldn’t be nearly enough to celebrate with you all, so we’re making this a weekend affair! 
+
+
+Lucky for us, we have Camp Jacamo, a beautiful 100 acre summer camp, from Friday evening through Sunday morning. Guests are welcome to join for the whole weekend, or just for the big event on Saturday - choose your own adventure!
 
 <div class="map-entry"></div>
 
@@ -26,3 +35,8 @@ Evening: Morgan & Jaclyn get married, everyone parties into the night
 
 __Sunday, 5/31__
 Morning: Coffee & farewell! Miss you already!
+
+<div class="line-wrap about-line-after">
+    <svg height="30%" width="50%" class="line-8 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.48 57C2.4 49.16 2.9 40.49 3.98 30.99C5.07 21.49 6.73 11.16 8.98 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
+</div>
+

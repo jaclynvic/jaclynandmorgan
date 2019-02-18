@@ -11,6 +11,6 @@ title: jacamo
 Morgan and Jaclyn first met the way many modern couples do - on the internet!
 ### We both swiped left on a little app called hinge.
 
-<div class="line-wrap"><svg height="5%" width="5%" class="line-3 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M2.48 68.92L2.48 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg></div>
+<div class="line-wrap"><svg height="5%" width="6%" class="line-3 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M2.48 68.92L2.48 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg></div>
 
 <div class="card" style="min-height: 0px;"><div class="placeholder" style="width: 239.4px; height: 268.926px; display: none; position: absolute; background: rgb(208, 208, 208); transition: opacity 1s ease-in 0s; opacity: 0;"></div><img src="/assets/images/download-6.jpg"></div>
