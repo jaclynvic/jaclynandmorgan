@@ -15,7 +15,7 @@ title: location
 </div>
 
 
-#### GETTING THERE
+### Getting there
 
 Camp Jacamo is located in San Gregorio, CA, which is south of Half Moon Bay and north of Santa Cruz.
 
@@ -23,9 +23,11 @@ For guests who will be flying, SFO and SJC are almost equally distanced from the
 
 For guests who will be driving, there is ample parking on the property! The camp address is 5360 La Honda Rd, San Gregorio, CA 94074
 
+<br/>
+
 **Please note: There will not be Uber/Lyft service at this location, so please plan ahead! If you’re not staying on site, it might be a good idea to schedule a taxi service ahead of time, as cell service can be spotty at the camp.**
 
-#### STAYING THERE
+### Staying there
 
 Guests are welcome to stay through the weekend on site! There are 12 very rustic camp cabins for groups to share and lots of space for tent camping. We may also have access to luxury glamping tents (think Fyre Festival, but actually what you paid for) depending on the level of interest. 
 

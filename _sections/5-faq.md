@@ -12,28 +12,56 @@ title: faq
 
 # Faq
 
-## Is this a kid-friendly event?
+### Is this a kid-friendly event?
 We love kids, but our wedding weekend will not be child-proofed! 
 At this time we do not plan on having an on-site babysitter.  Please let us know if this is an issue, and we'll see what we can do!  
 
-## Are pets allowed?
+### Are pets allowed?
 Unfortunately pets are not allowed at the camp. Please leave your furry friends at home!
 
-## What should I expect if I’m staying in a cabin?
+### What should I expect if I’m staying in a cabin?
 The cabins are very basic. There are 8 bunks and one single bed in each cabin, sleeping 9 at the most. Each bed has a vinyl mattress, and you will need to bring sleeping bag, pillows etc. There are no electrical outlets inside the cabins. Shared bathrooms with electrical outlets  are located outside of the cabins. If you have a portable charger/extra battery for your phone, we’d recommend bringing it!
 
-## Is there cell service/Wifi at the camp?
+### Is there cell service/Wifi at the camp?
 Cell service can be spotty depending on your carrier, but Verizon seems to work pretty well. There is also WiFi access in some areas of the camp.
 
-##  What should I wear to the wedding? 
+###  What should I wear to the wedding? 
 We’ll describe the event as “dressy casual”. Most importantly, we want you to be comfortable and to dress for longevity! Last thing we want is for your uncomfortable shoes to slow you down on the dance floor. Most of the ceremony/reception will be outdoors on natural ground, so dress accordingly! We’d also suggest bringing layers, as it will get chilly in the evening. There will be plenty of room for you to store a bag/extra layers so don’t worry about packing some extra items!
 
-## What’s the parking situation?
+### What’s the parking situation?
   There is plenty of parking on site!
 
-## Can I use Uber/Lyft to get back to my hotel?
+### Can I use Uber/Lyft to get back to my hotel?
 No, do not plan for Uber/Lyft. We’d encourage you to stay on-site Saturday night if possible, or schedule a taxi service for a ride back to your hotel.
 
-## Can I bring an RV?
+### Can I bring an RV?
 No. Sorry!
 
+### Are there showers available on site?
+For guests staying onsite, there are 3 shower options. There are showers located in the men's restroom located near Scheid Hall, on the pool deck, and in Willow Glen. Please note that similar to the rest of the summer camp, these are not glamorous. Be sure to pack a towel and a pair of flip flops might not be a bad idea either.
+
+### Is there electricity for phone charging and hair curling?
+There is no electricity in the cabins, but there are outlets in the bathrooms and around the property. Be prepared to share the outlets with everyone else, and definitely bring a portable charger/extra battery for your phone if you have one!
+
+### What is there to do in the area?
+ - The property itself contains 100 acres to explore with hiking trails
+ - Check out the incredible Redwoods! You can see these on site, as well as the nearby Heritage Grove trail
+ - San Gregorio State beach is located only a 15 minute drive at the base of La Honda Blvd at Hwy 1.
+ - There is an epic General Store located a 6 minute drive down La Honda Blvd towards the ocean that has a bar, coffee, tons of amazing trinkets, and occasionally live music!
+ - Apple Jack’s Saloon in La Honda is one of our favorite spots! Built in the 1870s, this biker bar was recently named among the top 32 dive bars in the country (#12). 
+ - Visit Half Moon Bay or Santa Cruz - both are beautiful coastal towns with lots to see, eat, and drink! 
+
+### I’m camping on site. What should I pack?
+ - Layers!
+ - A flashlight/headlamp
+ - Bedding/Sleeping bag and pillow if you are staying in a cabin or a tent
+ - A Towel
+ - Toiletries
+ - Snacks/meals for pre-wedding Saturday
+ - Any outdoor field games that you may have
+ - Refillable water bottle
+ - Shower sandals
+ - Sunblock
+ - Comfortable/warm clothes for the evening 
+ - Hiking / tennis shoes 
+ - Good spirits and positive vibes!!!

@@ -10,21 +10,30 @@
     }
   }
 
-  &.intro, &.jacamo, &.jacamo_cont {
-    .bg-pattern{
-      display:none;
+  &.intro,
+  &.jacamo,
+  &.jacamo_cont {
+    .bg-pattern {
+      display: none;
     }
   }
-
 }
 
 h3#we-both-swiped-left-on-a-little-app-called-hinge {
-    width: 55%;
-    margin: auto;
-    margin-top: 2%;
-    margin-bottom: 5%;
+  width: 55%;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 5%;
 }
 
-.jaclyn-about, .morgan-about{
-  display:flex;
+.jaclyn-about,
+.morgan-about {
+  display: flex;
+}
+
+.jacamo-wrap-images {
+  display: flex;
+  padding-left: 7%;
+  margin-top: 5%;
+  margin-bottom: 7%;
 }

@@ -28,20 +28,21 @@ Lucky for us, we have Camp Jacamo, a beautiful 100 acre summer camp, from Friday
 <div id="map-entry" class="card"></div>
 
 <div class="line-wrap about-line-after">
-    <svg height="30%" width="50%" class="line-9 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.48 57C2.4 49.16 2.9 40.49 3.98 30.99C5.07 21.49 6.73 11.16 8.98 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
+    <svg height="30%" width="50%" class="line-9 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path path d="M2.60 57C2.4 50.16 2.9 40.49 3.98 30.99C5.07 21.49 6.73 11.16 5 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg>
 </div>
 
 We will post a more detailed schedule as we get closer to the event, but here’s a rough idea of what to expect:
 
-- __Friday, 5/29__
-    - Afternoon: Camp Jacamo gates open! Set up camp, play games, explore the property
-    - Evening: Dinner, beers, partying, camp fire
+<div class="line-wrap"><svg height="5%" width="6%" class="line-9a line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 50" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M2.48 68.92L2.48 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg></div>
 
-- __Saturday, 5/30__
-    - Morning/Afternoon: Breakfast, Surf/yoga/hike/play games
-    - Evening: Morgan & Jaclyn get married, everyone parties into the night
+### Friday, 5/29
+  - Afternoon: Camp Jacamo gates open! Set up camp, play games, explore the property
+  - Evening: Dinner, beers, partying, camp fire
 
-- __Sunday, 5/31__
-    - Morning: Coffee & farewell! Miss you already!
+### Saturday, 5/30
+  - Morning/Afternoon: Breakfast, Surf/yoga/hike/play games
+  - Evening: Morgan & Jaclyn get married, everyone parties into the night
 
-<div class="spacer"> 
+### Sunday, 5/31
+  - Morning: Coffee & farewell! Miss you already!
+

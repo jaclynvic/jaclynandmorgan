@@ -7,11 +7,11 @@
     width: 120%;
     margin-left: -10%;
     padding-bottom: 118%;
-    border-top-right-radius: 15% 15%;
-    border-top-left-radius: 100% 25%;
+    border-top-right-radius: 5% 15%;
+    border-top-left-radius: 100% 15%;
     .bg-pattern{
-      border-top-right-radius: 15% 15%;
-      border-top-left-radius: 100% 25%;
+      border-top-right-radius: 5% 15%;
+      border-top-left-radius: 100% 15%;
      } 
     .inner {
       width: 80%;
@@ -25,6 +25,15 @@
       width: 75%;
       line-height: 150%;
       margin: 0 auto 3%;
+    }
+    ul {
+      width: 70%;
+      font-family: "Restless Small Caps", sans-serif;
+      margin: 0px auto 5%;
+      li {
+        line-height: 1.5;
+
+      }
     }
 }
 

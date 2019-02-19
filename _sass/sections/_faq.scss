@@ -1,14 +1,14 @@
 .section {
-  &.faq, &.faq-cont {
+  &.faq{
+
     background: #7d8a86;
     padding-top: 7%;
     border-top-right-radius: 80% 10%;
     border-top-left-radius: 80% 10%;
     width: 110%;
     margin-left: -5%;
-    padding-bottom: 35%;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 0;
+    padding-right: 0;
     margin-top: -30%;
     .bg-pattern{
       border-top-right-radius: 80% 10%;
@@ -22,5 +22,16 @@
   .inner{
       width: 80%;
       margin:auto;
+      h3{
+        text-align: left;
+        text-transform: lowercase;
+      }
+      ul {
+        font-family: "Restless Small Caps", sans-serif;
+        font-size: 1.5vw;
+        line-height: 1.5;
+      }
     }
+
 }
+
