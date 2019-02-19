@@ -10,7 +10,7 @@ title: faq
 
 
 
-# Faq
+# FAQ
 
 ### Is this a kid-friendly event?
 We love kids, but our wedding weekend will not be child-proofed! 
