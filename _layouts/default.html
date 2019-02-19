@@ -5,7 +5,7 @@
     <ul class="top-nav">
       {% for section in site.sections %}
       {% if section.linkable %}
-      <li class="nav-link"><a href="#{{section.section}}">{{ section.title}}<a/></li>
+      <li class="nav-link"><a class="nav-link-ref" data-section="{{section.section}}" href="#{{section.section}}">{{ section.title }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>  
