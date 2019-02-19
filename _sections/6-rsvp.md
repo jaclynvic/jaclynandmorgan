@@ -4,6 +4,6 @@ linkable: true
 title: rsvp
 ---
 
-# rsvp
+# RSVP
 
 Check back to RSVP to this raging event!
