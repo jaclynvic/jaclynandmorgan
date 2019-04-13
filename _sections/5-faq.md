@@ -13,26 +13,25 @@ title: faq
 # FAQ
 
 ### Is this a kid-friendly event?
-We love kids, but our wedding weekend will not be child-proofed! 
-At this time we do not plan on having an on-site babysitter.  Please let us know if this is an issue, and we'll see what we can do!  
+We love kids, but our wedding weekend will not be child-proofed! Please leave your little ones at home if possible.
 
 ### Are pets allowed?
-Unfortunately pets are not allowed at the camp. Please leave your furry friends at home!
+Unfortunately pets are not allowed at the camp.
 
 ### What should I expect if I’m staying in a cabin?
-The cabins are very basic. There are 8 bunks and one single bed in each cabin, sleeping 9 at the most. Each bed has a vinyl mattress, and you will need to bring sleeping bag, pillows etc. There are no electrical outlets inside the cabins. Shared bathrooms with electrical outlets  are located outside of the cabins. If you have a portable charger/extra battery for your phone, we’d recommend bringing it!
+The cabins are very basic. There are 8 bunks and one single bed in each cabin, sleeping 9 at the most. Each bed has a vinyl mattress, and you will need to bring a sleeping bag, pillows etc. There are no electrical outlets inside the cabins. Shared bathrooms with electrical outlets are located outside of the cabins. If you have a portable charger/extra battery for your phone, we’d recommend bringing it!
 
 ### Is there cell service/Wifi at the camp?
 Cell service can be spotty depending on your carrier, but Verizon seems to work pretty well. There is also WiFi access in some areas of the camp.
 
-###  What should I wear to the wedding? 
-We’ll describe the event as “dressy casual”. Most importantly, we want you to be comfortable and to dress for longevity! Last thing we want is for your uncomfortable shoes to slow you down on the dance floor. Most of the ceremony/reception will be outdoors on natural ground, so dress accordingly! We’d also suggest bringing layers, as it will get chilly in the evening. There will be plenty of room for you to store a bag/extra layers so don’t worry about packing some extra items!
+###  What should I wear to the wedding?
+We’ll describe the event as “forest formal”. Most importantly, we want you to be comfortable and to dress for longevity! Last thing we want is for your uncomfortable shoes to slow you down on the dance floor. Most of the ceremony/reception will be outdoors on natural ground, so dress accordingly! We’d also suggest bringing layers, as it will get chilly in the evening. There will be plenty of room for you to store a bag/extra layers so don’t worry about packing some extra items!
 
 ### What’s the parking situation?
   There is plenty of parking on site!
 
 ### Can I use Uber/Lyft to get back to my hotel?
-No, do not plan for Uber/Lyft. We’d encourage you to stay on-site Saturday night if possible, or schedule a taxi service for a ride back to your hotel.
+There is Uber/Lyft service in the area, but it's pretty limited so we wouldn't bank on this. We’d encourage you to stay on-site Saturday night if possible, or schedule a taxi service for a ride back to your hotel.
 
 ### Can I bring an RV?
 No. Sorry!
@@ -48,8 +47,8 @@ There is no electricity in the cabins, but there are outlets in the bathrooms an
  - Check out the incredible Redwoods! You can see these on site, as well as the nearby Heritage Grove trail
  - San Gregorio State beach is located only a 15 minute drive at the base of La Honda Blvd at Hwy 1.
  - There is an epic General Store located a 6 minute drive down La Honda Blvd towards the ocean that has a bar, coffee, tons of amazing trinkets, and occasionally live music!
- - Apple Jack’s Saloon in La Honda is one of our favorite spots! Built in the 1870s, this biker bar was recently named among the top 32 dive bars in the country (#12). 
- - Visit Half Moon Bay or Santa Cruz - both are beautiful coastal towns with lots to see, eat, and drink! 
+ - Apple Jack’s Saloon in La Honda is one of our favorite spots! Built in the 1870s, this biker bar was recently named among the top 32 dive bars in the country (#12).
+ - Visit Half Moon Bay or Santa Cruz - both are beautiful coastal towns with lots to see, eat, and drink!
 
 ### I’m camping on site. What should I pack?
  - Layers!
@@ -57,11 +56,12 @@ There is no electricity in the cabins, but there are outlets in the bathrooms an
  - Bedding/Sleeping bag and pillow if you are staying in a cabin or a tent
  - A Towel
  - Toiletries
- - Snacks/meals for pre-wedding Saturday
+ - Snacks for pre-wedding Saturday
  - Any outdoor field games that you may have
+ - An instrument if you have one (for campfire jams)
  - Refillable water bottle
  - Shower sandals
  - Sunblock
- - Comfortable/warm clothes for the evening 
- - Hiking / tennis shoes 
+ - Comfortable/warm clothes for the evening
+ - Hiking / tennis shoes
  - Good spirits and positive vibes!!!

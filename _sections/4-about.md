@@ -16,7 +16,7 @@ title: about
 
 
 
-### We decided early on that a single evening wouldn’t be nearly enough to celebrate with you all, so we’re making this a weekend affair! 
+### We decided early on that a single evening wouldn’t be nearly enough to celebrate with you all, so we’re making this a weekend affair!
 
 
 Lucky for us, we have Camp Jacamo, a beautiful 100 acre summer camp, from Friday evening through Sunday morning. Guests are welcome to join for the whole weekend, or just for the big event on Saturday - choose your own adventure!
@@ -45,4 +45,3 @@ We will post a more detailed schedule as we get closer to the event, but here’
 
 ### Sunday, 5/31
   - Morning: Coffee & farewell! Miss you already!
-
