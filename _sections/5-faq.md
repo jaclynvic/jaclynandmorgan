@@ -31,7 +31,7 @@ We’ll describe the event as “forest formal”. Most importantly, we want you
   There is plenty of parking on site!
 
 ### Can I use Uber/Lyft to get back to my hotel?
-There is Uber/Lyft service in the area, but it's pretty limited so we wouldn't bank on this. We’d encourage you to stay on-site Saturday night if possible, or schedule a taxi service for a ride back to your hotel.
+There is Uber/Lyft service in the area, but it's pretty limited so we wouldn't bank on this. Depending on how many are staying off-site, we may be able to help to provide a transportation option. 
 
 ### Can I bring an RV?
 No. Sorry!
@@ -48,13 +48,14 @@ There is no electricity in the cabins, but there are outlets in the bathrooms an
  - San Gregorio State beach is located only a 15 minute drive at the base of La Honda Blvd at Hwy 1.
  - There is an epic General Store located a 6 minute drive down La Honda Blvd towards the ocean that has a bar, coffee, tons of amazing trinkets, and occasionally live music!
  - Apple Jack’s Saloon in La Honda is one of our favorite spots! Built in the 1870s, this biker bar was recently named among the top 32 dive bars in the country (#12).
+ - You can get anything you want at Alice's Restaurant! Located in nearby Woodside, CA and a great place for a bite to eat or a beer.
  - Visit Half Moon Bay or Santa Cruz - both are beautiful coastal towns with lots to see, eat, and drink!
 
 ### I’m camping on site. What should I pack?
  - Layers!
  - A flashlight/headlamp
  - Bedding/Sleeping bag and pillow if you are staying in a cabin or a tent
- - A Towel
+ - A towel
  - Toiletries
  - Snacks for pre-wedding Saturday
  - Any outdoor field games that you may have
@@ -62,6 +63,6 @@ There is no electricity in the cabins, but there are outlets in the bathrooms an
  - Refillable water bottle
  - Shower sandals
  - Sunblock
- - Comfortable/warm clothes for the evening
+ - Insect repellent
  - Hiking / tennis shoes
  - Good spirits and positive vibes!!!
