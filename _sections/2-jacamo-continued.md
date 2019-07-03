@@ -34,7 +34,7 @@ Morgan grew up in beautiful Laguna Beach with his older brother, Henry; twin bro
 
 <div class="line-wrap"><svg height="5%" width="6%" class="line-4 line" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 70" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M2.48 68.92L2.48 0" opacity="1" fill-opacity="0" stroke="#fcf3e0" stroke-opacity="1"></path></svg></div>
 
-Jaclyn and Morgan have spent the last five years completely inseparable and head-over-heels in love! They moved in together after 8 months, and haven’t looked back since. They currently live near Ocean Beach so Morgan can get in all the surfing he wants, and spend many weekends out camping or traveling or spending time with their wonderful friends (including the same rowdy crew Morgan was drinking all the beers with at UCSC).
+Jaclyn and Morgan have spent the last five years completely inseparable and head-over-heels in love! They currently live near Ocean Beach so Morgan can get in all the surfing he wants, and spend many weekends camping, traveling, or spending time with their wonderful friends (including the same rowdy crew Morgan was drinking all the beers with at UCSC).
 
 “Jacamo” is what Jaclyn’s brother Chris and wife Kayla call the couple, and it seems to be trending so we’re going with that as the theme for this wedding.
 
