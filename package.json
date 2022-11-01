@@ -28,7 +28,7 @@
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "browserify": "^10.2.6",
+    "browserify": "^17.0.0",
     "eases": "^1.0.8",
     "glfx": "0.0.4",
     "npm": "^6.3.0",
