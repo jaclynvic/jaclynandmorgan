@@ -44,7 +44,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
-    "babelify": "^7.0.1",
+    "babelify": "^10.0.0",
     "reactify": "^1.1.1",
     "uglify-js": "^2.8.29",
     "watchify": "^3.11.0"
